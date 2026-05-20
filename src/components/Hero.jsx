@@ -35,7 +35,7 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-center gap-12 md:gap-16">
           {/* Text */}
           <div className="flex-1 text-center md:text-left">
-            <p className="text-purple-400 font-semibold text-sm uppercase tracking-widest mb-4">
+            <p className="hidden md:flex text-purple-400 font-semibold text-sm uppercase tracking-widest mb-4">
               Full Stack JavaScript Developer
             </p>
             <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-4">
