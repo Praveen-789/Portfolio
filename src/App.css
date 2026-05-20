@@ -1,0 +1,10 @@
+/* Reset Vite template root constraints */
+#root {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  border: none;
+  min-height: 100svh;
+  text-align: left;
+  display: block;
+}
