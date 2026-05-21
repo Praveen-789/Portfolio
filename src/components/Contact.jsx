@@ -67,7 +67,7 @@ export default function Contact() {
           <div className="text-center">
             <a
               // href="mailto:Praveennagadesi789@gmail.com"
-              href="https://wa.me/919876543210?text=Hi%20Praveen,%20I%20saw%20your%20portfolio"
+              href="https://wa.me/917893900268?text=Hi%20Praveen,%20I%20saw%20your%20portfolio"
                target="_blank"
                rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 hover:shadow-lg hover:shadow-purple-500/25"
