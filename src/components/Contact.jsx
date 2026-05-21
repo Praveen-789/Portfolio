@@ -1,5 +1,5 @@
-import { Mail, Phone, Send } from 'lucide-react'
-import { GithubIcon, LinkedinIcon } from './icons'
+import { Mail, Phone } from 'lucide-react'
+import { GithubIcon, LinkedinIcon, WhatsappIcon } from './icons'
 
 const contacts = [
   {
@@ -70,9 +70,9 @@ export default function Contact() {
               href="https://wa.me/917893900268?text=Hi%20Praveen,%20I%20saw%20your%20portfolio"
                target="_blank"
                rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 hover:shadow-lg hover:shadow-purple-500/25"
+              className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 hover:shadow-lg hover:shadow-green-500/25"
             >
-              <Send size={20} /> Send a Message
+              <WhatsappIcon size={22} /> Message on WhatsApp
             </a>
           </div>
         </div>
